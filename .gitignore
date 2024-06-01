@@ -7,3 +7,7 @@ results/*
 results/data/position/gps/*.csv
 **/*.csv
 log_*
+.Rproj.user
+.Rhistory
+.RData
+*.Rproj
