@@ -1,2 +1,9 @@
 *.csv
 results/
+results/plots/
+!final.csv
+results/*
+!results/data/
+results/data/position/gps/*.csv
+**/*.csv
+log_*
