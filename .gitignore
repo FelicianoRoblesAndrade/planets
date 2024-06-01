@@ -11,3 +11,4 @@ log_*
 .Rhistory
 .RData
 *.Rproj
+graphs/
